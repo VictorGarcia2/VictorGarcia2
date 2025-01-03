@@ -1,5 +1,4 @@
-<h1>Hi, I am Víctor García
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="" width="45"/></h1>
+<h1>Hi, I am Víctor García<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="" width="45"/></h1>
 
 I am a Junior Front End Developer specialized in the creation of dynamic and attractive web interfaces. I master technologies such as **HTML, CSS, JS and React JS**, which allows me to develop efficient solutions focused on providing an exceptional user experience. My goal is to create modern and functional sites that adapt to the needs of each client.
 
@@ -11,7 +10,7 @@ I am a Junior Front End Developer specialized in the creation of dynamic and att
     
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - 📚 Frameworks and Libraries
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
